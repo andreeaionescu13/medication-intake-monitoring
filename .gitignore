@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pt
+*.pth
+*.onnx
+
+# Datasets
+data/raw/
+data/videos/
+*.zip
+
+# Videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# YOLO outputs
+runs/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
