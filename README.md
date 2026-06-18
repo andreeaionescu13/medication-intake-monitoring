@@ -7,6 +7,7 @@
 **Supervisor:** Rinat Khusainov
 **Year:** 2025
 
+---
 
 ## Project Overview
 
@@ -227,3 +228,12 @@ If you use or reference this work, please cite:
 ## License
 
 This project is released under the MIT License.
+
+---
+
+### System Requirements
+
+- Python 3.10+
+- FFmpeg installed on the system
+- CUDA-compatible GPU recommended for model training
+- Developed and tested in Google Colab
